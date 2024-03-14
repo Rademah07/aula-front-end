@@ -6,7 +6,15 @@
 }
 .landing_text{
    position: absolute;
-    
+   top: 50%; 
+   left: 50%;
+   transform: translate(-50%,-50%);
+   color: white;
+   font-size: 43xp;
+   text-align: center;
+}
+.imagem_central{
+   margin: 0 auto;
+   display: block;
 
-   
 }

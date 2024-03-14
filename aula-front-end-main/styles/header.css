@@ -11,7 +11,7 @@ transition: border-color 0.3s;
 
 }
 .cabecalho:hover{
-border-color: rgb(131,132,184);
+border-color: rgb(0, 0, 0);
 
 }
 
