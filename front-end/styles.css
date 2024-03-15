@@ -1,9 +1,11 @@
 @import url(styles/header.css);
 @import url(styles/principal.css);
+@import url(styles/serviços.css);
+
 
 body{
-background-color: blanchedalmond;
-color: #000;
+background-color: rgb(14, 14, 14);
+color: rgb(99,133,237);
 margin:0;
 padding: 0;
 text-align: center;
